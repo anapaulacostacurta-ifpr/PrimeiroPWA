@@ -6,6 +6,6 @@
     "precache": "node_modules/sw-precache/cli.js --root=app"
   },
   "dependencies": {
-    "sw-precache": "^3.0.0"
+    "sw-precache": "^1.2.1"
   }
 }
